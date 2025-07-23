@@ -39,7 +39,8 @@ public static void main(String[] args) {
 				}
 				else
 				{
-					System.out.println(arr1[i] +"this is excluded");
+					System.out.println(arr1[i] +"this is excluded just boz value is not divisible to two");
+					
 				}
 			}
 		
