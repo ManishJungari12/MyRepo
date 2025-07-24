@@ -85,7 +85,7 @@ public class Test01 {
 		List<String> nameArraylist = Arrays.asList(name1);
 		System.out.println(nameArraylist);
 		System.out.println(nameArraylist.contains("Renuka"));
-		System.out.println("********************");
+		System.out.println("*********************");
 
 	}
 
