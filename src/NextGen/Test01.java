@@ -77,14 +77,16 @@ public class Test01 {
 		// Items present in ArrayList 
 		System.out.println(a.contains("Selenium"));
 		
-		
+		System.out.println("********************");
+
 	// Convert Array to Array_list 
 		
 		String [] name1 = {"Pranali", "Renuka", "Vaibhavi", "Kavita"};
 		List<String> nameArraylist = Arrays.asList(name1);
 		System.out.println(nameArraylist);
 		System.out.println(nameArraylist.contains("Renuka"));
-		
+		System.out.println("********************");
+
 	}
 
 }
