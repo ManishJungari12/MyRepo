@@ -86,7 +86,7 @@ public class Test01 {
 		System.out.println(nameArraylist);
 		System.out.println(nameArraylist.contains("Renuka"));
 		System.out.println("*********************");
-
+        System.out.println("Hey Manish");
 	}
 
 }
