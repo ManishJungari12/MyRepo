@@ -19,7 +19,7 @@ public class Test01 {
 		WebDriver driver = new ChromeDriver(options);
 		
 		
-		// invoking the Browser
+		// invoking the Browserr
 		// ChromeDriver method
 		
 	    //WebDriver driver = new ChromeDriver();
